@@ -1,3 +1,5 @@
+library(ISLR)
+library(boot)
 
 ### minimum risk investment 
 alpha = function(x,y) {

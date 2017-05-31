@@ -1,0 +1,11 @@
+---
+title: "model_selection"
+output: html_document
+---
+
+```{r}
+library(ISLR)
+summary(Hitters)
+```
+
+
